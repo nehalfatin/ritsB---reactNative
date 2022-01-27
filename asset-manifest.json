@@ -1,0 +1,27 @@
+{
+  "files": {
+    "app.js": "/static/js/app.3f7c3a79.chunk.js",
+    "app.js.map": "/static/js/app.3f7c3a79.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.ad820a9d.chunk.js": "/static/js/2.ad820a9d.chunk.js",
+    "static/js/2.ad820a9d.chunk.js.map": "/static/js/2.ad820a9d.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.ad820a9d.chunk.js.LICENSE.txt": "/static/js/2.ad820a9d.chunk.js.LICENSE.txt",
+    "static/media/63007.jpg": "/static/media/63007.92532626.jpg",
+    "static/media/header_bg.png": "/static/media/header_bg.117dcd29.png",
+    "static/media/like.webp": "/static/media/like.757c2a93.webp",
+    "static/media/orange_logo_bg.png": "/static/media/orange_logo_bg.b0dd2fbf.png",
+    "static/media/rits_text.webp": "/static/media/rits_text.6ff51010.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e9f1821.js",
+    "static/js/2.ad820a9d.chunk.js",
+    "static/js/app.3f7c3a79.chunk.js"
+  ]
+}
