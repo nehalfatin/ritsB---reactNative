@@ -1,27 +1,27 @@
 {
   "files": {
-    "app.js": "/ritsB/index.html/static/js/app.3f7c3a79.chunk.js",
-    "app.js.map": "/ritsB/index.html/static/js/app.3f7c3a79.chunk.js.map",
-    "runtime~app.js": "/ritsB/index.html/static/js/runtime~app.3e0a2afb.js",
-    "runtime~app.js.map": "/ritsB/index.html/static/js/runtime~app.3e0a2afb.js.map",
-    "static/js/2.f3d8a6d8.chunk.js": "/ritsB/index.html/static/js/2.f3d8a6d8.chunk.js",
-    "static/js/2.f3d8a6d8.chunk.js.map": "/ritsB/index.html/static/js/2.f3d8a6d8.chunk.js.map",
-    "favicon-16.png": "/ritsB/index.html/favicon-16.png",
-    "favicon-32.png": "/ritsB/index.html/favicon-32.png",
-    "favicon.ico": "/ritsB/index.html/favicon.ico",
-    "index.html": "/ritsB/index.html/index.html",
-    "manifest.json": "/ritsB/index.html/manifest.json",
-    "serve.json": "/ritsB/index.html/serve.json",
-    "static/js/2.f3d8a6d8.chunk.js.LICENSE.txt": "/ritsB/index.html/static/js/2.f3d8a6d8.chunk.js.LICENSE.txt",
-    "static/media/63007.jpg": "/ritsB/index.html/static/media/63007.92532626.jpg",
-    "static/media/header_bg.png": "/ritsB/index.html/static/media/header_bg.117dcd29.png",
-    "static/media/like.webp": "/ritsB/index.html/static/media/like.757c2a93.webp",
-    "static/media/orange_logo_bg.png": "/ritsB/index.html/static/media/orange_logo_bg.b0dd2fbf.png",
-    "static/media/rits_text.webp": "/ritsB/index.html/static/media/rits_text.6ff51010.webp"
+    "app.js": "/ritsB/static/js/app.3f7c3a79.chunk.js",
+    "app.js.map": "/ritsB/static/js/app.3f7c3a79.chunk.js.map",
+    "runtime~app.js": "/ritsB/static/js/runtime~app.e17e0f25.js",
+    "runtime~app.js.map": "/ritsB/static/js/runtime~app.e17e0f25.js.map",
+    "static/js/2.bb5cff4b.chunk.js": "/ritsB/static/js/2.bb5cff4b.chunk.js",
+    "static/js/2.bb5cff4b.chunk.js.map": "/ritsB/static/js/2.bb5cff4b.chunk.js.map",
+    "favicon-16.png": "/ritsB/favicon-16.png",
+    "favicon-32.png": "/ritsB/favicon-32.png",
+    "favicon.ico": "/ritsB/favicon.ico",
+    "index.html": "/ritsB/index.html",
+    "manifest.json": "/ritsB/manifest.json",
+    "serve.json": "/ritsB/serve.json",
+    "static/js/2.bb5cff4b.chunk.js.LICENSE.txt": "/ritsB/static/js/2.bb5cff4b.chunk.js.LICENSE.txt",
+    "static/media/63007.jpg": "/ritsB/static/media/63007.92532626.jpg",
+    "static/media/header_bg.png": "/ritsB/static/media/header_bg.117dcd29.png",
+    "static/media/like.webp": "/ritsB/static/media/like.757c2a93.webp",
+    "static/media/orange_logo_bg.png": "/ritsB/static/media/orange_logo_bg.b0dd2fbf.png",
+    "static/media/rits_text.webp": "/ritsB/static/media/rits_text.6ff51010.webp"
   },
   "entrypoints": [
-    "static/js/runtime~app.3e0a2afb.js",
-    "static/js/2.f3d8a6d8.chunk.js",
+    "static/js/runtime~app.e17e0f25.js",
+    "static/js/2.bb5cff4b.chunk.js",
     "static/js/app.3f7c3a79.chunk.js"
   ]
 }
