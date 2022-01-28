@@ -1,18 +1,18 @@
 {
   "files": {
-    "app.js": "/ritsB/static/js/app.3f7c3a79.chunk.js",
-    "app.js.map": "/ritsB/static/js/app.3f7c3a79.chunk.js.map",
+    "app.js": "/ritsB/static/js/app.94770b38.chunk.js",
+    "app.js.map": "/ritsB/static/js/app.94770b38.chunk.js.map",
     "runtime~app.js": "/ritsB/static/js/runtime~app.e17e0f25.js",
     "runtime~app.js.map": "/ritsB/static/js/runtime~app.e17e0f25.js.map",
-    "static/js/2.bb5cff4b.chunk.js": "/ritsB/static/js/2.bb5cff4b.chunk.js",
-    "static/js/2.bb5cff4b.chunk.js.map": "/ritsB/static/js/2.bb5cff4b.chunk.js.map",
+    "static/js/2.bd4703fe.chunk.js": "/ritsB/static/js/2.bd4703fe.chunk.js",
+    "static/js/2.bd4703fe.chunk.js.map": "/ritsB/static/js/2.bd4703fe.chunk.js.map",
     "favicon-16.png": "/ritsB/favicon-16.png",
     "favicon-32.png": "/ritsB/favicon-32.png",
     "favicon.ico": "/ritsB/favicon.ico",
     "index.html": "/ritsB/index.html",
     "manifest.json": "/ritsB/manifest.json",
     "serve.json": "/ritsB/serve.json",
-    "static/js/2.bb5cff4b.chunk.js.LICENSE.txt": "/ritsB/static/js/2.bb5cff4b.chunk.js.LICENSE.txt",
+    "static/js/2.bd4703fe.chunk.js.LICENSE.txt": "/ritsB/static/js/2.bd4703fe.chunk.js.LICENSE.txt",
     "static/media/63007.jpg": "/ritsB/static/media/63007.92532626.jpg",
     "static/media/header_bg.png": "/ritsB/static/media/header_bg.117dcd29.png",
     "static/media/like.webp": "/ritsB/static/media/like.757c2a93.webp",
@@ -21,7 +21,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.e17e0f25.js",
-    "static/js/2.bb5cff4b.chunk.js",
-    "static/js/app.3f7c3a79.chunk.js"
+    "static/js/2.bd4703fe.chunk.js",
+    "static/js/app.94770b38.chunk.js"
   ]
 }
