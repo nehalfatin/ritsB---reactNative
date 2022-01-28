@@ -1,6 +1,7 @@
 import React from 'react';
 import {Text, View, Image, TouchableOpacity} from 'react-native';
 import { useEffect, useState } from 'react';
+import { useNavigation } from '@react-navigation/native'
 
 import db from "../../firebase1";
 import { onSnapshot,collection } from 'firebase/firestore';
@@ -12,6 +13,7 @@ import styles from './style';
 function Post() {
     
     const [Users, setName] = useState([]);
+    const navigation = useNavigation();
 
     useEffect(()=>
         //onSnapshot detects realtime change in database and updates
@@ -34,7 +36,7 @@ function Post() {
                           <Text style={styles.timeStamp}>timestamp</Text>
                       </View>
                   </View>
-                  <TouchableOpacity>
+                  <TouchableOpacity onPress={()=>navigation.navigate('PostPage')}>
                   <Text style={styles.title}>Title Text</Text>
                   <Text style={styles.subTitle}>Subtitle Text</Text>
                   <Image style={styles.postImage} source={require('../../assets/Images/63007.jpg')} />
