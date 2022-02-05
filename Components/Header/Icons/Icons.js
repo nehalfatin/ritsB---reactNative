@@ -10,6 +10,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 library.add(far,fas);
 
 const Icons = (props) => {
+       
     return (
         <View style = {styles.container}>
             <View>
@@ -22,6 +23,9 @@ const Icons = (props) => {
             <Text style={styles.text}>
                 {props.text}
             </Text>
+            <View style={{flexDirection: 'row', alignItems: 'center'}}>
+                <View style={{flex: 1, height: 2, width: 50, backgroundColor: 'red', top:2.5}} />
+            </View>
         </View>
     )
 }

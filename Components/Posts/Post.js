@@ -61,6 +61,8 @@ export default Post;
 //-> Imports from firestore to retrieve data in temporary directory
 //-> docs.map creates the number of posts from firebase
 //-> Post Clickable from Title to picture withing TouchableOpacity
+//-> Added functionality to clickable post to open in same window
+//   Implemented stack navigator to post with back button visible
 
 //-> Uses shared stylesheet from same directory
 //----------------------------------------------------------------------------
@@ -75,6 +77,4 @@ export default Post;
 //-> Add and retrieve category of post from firebase
 //-> Add and retrieve directory to fetch user infor: Name, Photo
 //-> Add and retrieve directory to fetch post: Title, Article and Image
-//-> Add functionality to clickable post to open in new window
-//   Implement stack navigator to post with back button visible
 //-> Read more notes on useState and useEffect

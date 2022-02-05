@@ -1,10 +1,11 @@
-import React from 'react'
+import React, {useState} from 'react'
 import {View, TouchableOpacity} from 'react-native'
 import Icons from '../Icons/Icons'
 import { useNavigation } from '@react-navigation/native'
 
 const IconButton=(props)=> {
     const navigation = useNavigation();
+    
     return (
         <TouchableOpacity onPress={()=>navigation.navigate(props.screenName)}>
             <View >

@@ -2,7 +2,6 @@ import React from 'react'
 import { ScrollView } from 'react-native-gesture-handler'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useWindowDimensions, Text } from 'react-native'
-import { useNavigation } from '@react-navigation/native'
 
 const PostPage = () => {
     const window = useWindowDimensions();
@@ -16,3 +15,12 @@ const PostPage = () => {
 }
 
 export default PostPage
+
+//----------------------------------------------------------------------------
+//DEV NOTES:
+//-> Header visible with back button
+//-> Rits Header not available
+
+//----------------------------------------------------------------------------
+//-> Styling the page
+//-> Show post from firebase

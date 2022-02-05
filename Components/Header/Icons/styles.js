@@ -21,7 +21,8 @@ const styles = StyleSheet.create({
         alignSelf:'center',
         paddingTop:5,
         top:5.5,
-    }
+    },
+
 })
 
 export default styles;
