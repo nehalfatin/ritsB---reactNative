@@ -3,7 +3,7 @@ import {Text, View, Image, TouchableOpacity} from 'react-native';
 import { useEffect, useState } from 'react';
 import { useNavigation } from '@react-navigation/native'
 
-import db from "../../firebase1";
+import db from "../../firebase";
 import { onSnapshot,collection } from 'firebase/firestore';
 
 import {LikeButton, ReadLaterButton, ViewsButton} from './PostButtons';
